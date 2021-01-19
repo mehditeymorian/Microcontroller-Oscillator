@@ -1,5 +1,5 @@
 # Microcontroller-Oscillator
-An Microcontroller based Oscillator that produces a periodic, oscillating electronic signal, often a sine wave or a square wave. I used Stm32f microcontroller to complete this project. You can generate up to 8 different types of waves. Also Wave period and frequency are adjustable. You can find the complete report [here](https://github.com/mehditeymorian/Microcontroller-Oscillator/blob/master/Assets/report.pdf).
+A Microcontroller based Oscillator that produces a periodic, oscillating electronic signal, often a sine wave or a square wave. I used Stm32f microcontroller to complete this project. You can generate up to 8 different types of waves. Also Wave period and frequency are adjustable. You can find the complete report [here](https://github.com/mehditeymorian/Microcontroller-Oscillator/blob/master/Assets/report.pdf).
 
 ## Wave types
 - Sine Wave
