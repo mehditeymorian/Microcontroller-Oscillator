@@ -24,6 +24,9 @@ You can adjust the domain from scale 4 to 10 which 10 being the highest and the 
 ## Proteus Shematics
 ![](https://github.com/mehditeymorian/Microcontroller-Oscillator/blob/master/Assets/schematic.png)
 
+### How to run
+load the hex file into the microcontroller in proteus file. set 96 and 97 for amilitude and frequency respectively in proteus file. and hit the run button.
+
 ## Contribution
 Project is open for any contribution and futher development. Please feel free to contact me if you have any doubt or problem. here's [my email](mailto:mehditeymorian322@gmail.com). 🍻
 
