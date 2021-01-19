@@ -25,7 +25,7 @@ You can adjust the domain from scale 4 to 10 which 10 being the highest and the 
 ![](https://github.com/mehditeymorian/Microcontroller-Oscillator/blob/master/Assets/schematic.png)
 
 ## Contribution
-I'm ready for any contribution and futher development. Please feel free to contact me if you had any doubt or problem. here's [my email](mailto:mehditeymorian322@gmail.com). 🍻
+Project is open for any contribution and futher development. Please feel free to contact me if you have any doubt or problem. here's [my email](mailto:mehditeymorian322@gmail.com). 🍻
 
 ## Acknowledgment
 I would like to express my gratitude to amazing Fatemeh that helped me to complete this wonderful job. it wasn't possible without her.
